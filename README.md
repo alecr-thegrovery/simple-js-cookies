@@ -13,6 +13,10 @@ Use this code to look for a localStorage variable and perform an action based on
 </div>
 ```
 
+## Example
+- [https://grovery-simple-js-cookies.netlify.app/]
+- [https://grovery-simple-js-cookies.netlify.app/?gated_content=unlocked]
+
 ## Requirements
 Requires jQuery.
 
