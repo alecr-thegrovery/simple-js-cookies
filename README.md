@@ -17,8 +17,8 @@ Use this code to look for a localStorage variable and perform an action based on
 Requires jQuery.
 
 ## Notes
-- localStorage: long term storage for the browser.
-- sessionStorage: short term storage just for the current tab.
+- localStorage: long term storage for the browser.  Expires when user clears history.
+- sessionStorage: short term storage just for the current tab. Expires when user closes tab, doesn't apply to other tabs.
 
 ## Coming Soon
 - Publish as an NPM package
