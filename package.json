@@ -1,7 +1,7 @@
 {
   "name": "simple-js-cookies",
   "version": "0.1.0",
-  "description": "analytics toolkit for Google Analytics events",
+  "description": "Basic jQuery-based cookie function, useful for gated content",
   "main": "index.js",
   "exports": "./index.js",
   "scripts": {
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Planet-Caravan-Studios/Planet-Caravan-Analytics-Toolkit.git"
+    "url": "git+https://github.com/alecr-thegrovery/simple-js-cookies.git"
   },
   "keywords": [
-    "analytics",
-    "google",
-    "analytics",
-    "ga-event"
+    "localStorage",
+    "sessionStorage",
+    "cookies",
+    "gated content"
   ],
   "author": "Alec Reimel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Planet-Caravan-Studios/Planet-Caravan-Analytics-Toolkit/issues"
+    "url": "https://github.com/alecr-thegrovery/simple-js-cookies/issues"
   },
-  "homepage": "https://github.com/Planet-Caravan-Studios/Planet-Caravan-Analytics-Toolkit#readme"
+  "homepage": "https://github.com/alecr-thegrovery/simple-js-cookies#readme"
 }
