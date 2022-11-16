@@ -14,6 +14,7 @@ Use this code to look for a localStorage variable and perform an action based on
 ```
 
 ## Example
+Here is an example page with the unlock parameter. To test more than once, open in an incognito window, then close, then open a new incognito window.
 - https://grovery-simple-js-cookies.netlify.app/
 - https://grovery-simple-js-cookies.netlify.app/?gated_content=unlocked
 
